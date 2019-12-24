@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+  ~ Copyright 2019 Joey Hewitt <joey@joeyhewitt.com>
+  ~
+  ~ This file is part of DuOTP.
+  ~
+  ~ DuOTP is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ DuOTP is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with DuOTP.  If not, see <https://www.gnu.org/licenses/>.
+  ~
+  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/scintill/Projects/duo/app/icon.svg.png"
+   inkscape:export-xdpi="4096"
+   inkscape:export-ydpi="4096">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-13.735435"
+     inkscape:cy="-4.9483587"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#d0007b;fill-opacity:1;stroke:none;stroke-width:9.41209984;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect4601"
+       width="16.779661"
+       height="19.627119"
+       x="3.2542374"
+       y="1.9322032"
+       rx="29.464285"
+       ry="19.627119" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <path
+       d="M 12,1 3,5 v 6 c 0,5.55 3.84,10.74 9,12 5.16,-1.26 9,-6.45 9,-12 V 5 Z m 0,10.99 h 7 c -0.53,4.12 -3.28,7.79 -7,8.94 V 12 H 5 V 6.3 l 7,-3.11 z"
+       id="path2"
+       style="opacity:1;fill:#008900;fill-opacity:1;stroke:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40.5779953px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#fbff00;fill-opacity:1;stroke:none;stroke-width:1.01444995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="4.3665314"
+       y="11.255209"
+       id="text823"><tspan
+         sodipodi:role="line"
+         id="tspan821"
+         x="4.3665314"
+         y="11.255209"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76299906px;font-family:'Droid Sans Mono for Powerline';-inkscape-font-specification:'Droid Sans Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fbff00;fill-opacity:1;stroke-width:1.01444995px;">Du</tspan></text>
+    <g
+       id="g4599"
+       transform="matrix(0.99103546,0,0,0.99103546,1.8396821,-1.7352874)"
+       style="fill:#fbff00;fill-opacity:1">
+      <text
+         id="text831"
+         y="15.355932"
+         x="12.20339"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:'Droid Sans Mono for Powerline';-inkscape-font-specification:'Droid Sans Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fbff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4579"
+           y="15.355932"
+           x="12.20339"
+           sodipodi:role="line">O</tspan></text>
+      <text
+         id="text4587"
+         y="18.813559"
+         x="12.20339"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#fbff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:'Droid Sans Mono for Powerline';-inkscape-font-specification:'Droid Sans Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fbff00;fill-opacity:1"
+           y="18.813559"
+           x="12.20339"
+           id="tspan4585"
+           sodipodi:role="line">T</tspan></text>
+      <text
+         id="text4591"
+         y="21.966103"
+         x="12.20339"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#fbff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;font-family:'Droid Sans Mono for Powerline';-inkscape-font-specification:'Droid Sans Mono for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fbff00;fill-opacity:1"
+           y="21.966103"
+           x="12.20339"
+           id="tspan4589"
+           sodipodi:role="line">P</tspan></text>
+    </g>
+  </g>
+</svg>
