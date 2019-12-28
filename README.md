@@ -2,7 +2,7 @@
 
 DuOTP is a small GPL3+ Android app that allows you to log in to Duo*-protected services with a standard [OTP](https://en.wikipedia.org/wiki/One-time_password "one-time password") app, such as [Google Authenticator](https://github.com/google/google-authenticator-android).
 
-DuOTP has no visible interface or app drawer icon. See below for usage instructions.
+DuOTP has no visible interface or app drawer icon. An OTP-capable app must also be installed (Google Authenticator or similar.) See below for usage instructions.
 
 ## Usage
 

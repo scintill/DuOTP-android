@@ -1,0 +1,16 @@
+Note: this app is not associated with or endorsed by Duo Security, Inc. or Cisco Systems, Inc.
+
+DuOTP has no visible interface or app drawer icon. An OTP-capable app must also be installed (Google Authenticator or similar.) See below for usage instructions.
+
+USAGE
+
+(Disclaimer: I don't know how much of this could vary between sites, so I can only describe how the one I tested with works.)
+
+1. **Get your Android device with DuOTP installed and enter incognito mode**. (Incognito so that any previous login sessions are ignored.) Begin logging into the protected service on your Android device.
+2. When you get to the Duo login screen, choose `Add a new device` and authenticate if needed.
+3. Choose to activate a `Tablet`, then choose `Android`.
+4. Click `I have Duo Mobile installed`, then `Take me to Duo Mobile`.
+5. Your OTP app should then open, asking to confirm importing the secret token. If an error occurs, DuOTP will pop up an error message. If nothing happens, then DuOTP is not installed correctly, or your browser is not activating it.
+6. After you have saved the account in your OTP app, return to the browser. Tap `Continue` and `Continue to Login`. Now and any future time you are prompted by the Duo login screen, choose `Enter a Passcode` and copy the numeric code from your OTP app.
+
+After this, you don't need to use DuOTP again, and may remove it from your device if you'd like. (It's small though, so it might be worth keeping around in case Duo expires the secret token.)
