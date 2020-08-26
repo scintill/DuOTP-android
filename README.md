@@ -21,6 +21,7 @@ After this, you don't need to use DuOTP again, and may remove it from your devic
 
 * Google Authenticator for Android v5.00, GitHub release APK
 * [`de.kuix.android.apps.authenticator2`](https://github.com/kaie/otp-authenticator-android) version 1.0
+* [andOTP](https://github.com/andOTP/andOTP) version 0.7.1.1
 * Firefox for Android 68.3.0 (for browsing through the import process)
 
 ## Some technical details
