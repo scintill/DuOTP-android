@@ -29,7 +29,7 @@ This app is activated by tapping a link with sceheme `duo://` from a Duo-enabled
 
 ## Possible future enhancements and open questions
 
-* Does the token expire after e.g. 30 days? The JSON response from the service does include a `reactivation_token` field that DuOTP currently ignores.
+* Does the token expire after some time? (Mine's still working after 8 months.) The JSON response from the service does include a `reactivation_token` field that DuOTP currently ignores.
     * If it does expire on you, you can re-do the import process and I imagine you'll get a new secret and be fine until another expiration.
 * QR code enrollment: if you begin logging in on a PC, you have the option to enroll via Duo Mobile with a QR code displayed on the PC.
     * I believe the code contains the same data as the `duo://` link you are tapping in my usage instructions above, but without a URI scheme prefix. If you would like to use the QR code and can DIY a bit, you should be able to decode the QR code into text, add `duo://` on the beginning, generate a new QR code from that result, and scan that in your phone's browser, and it will be imported by DuOTP and your OTP app.
