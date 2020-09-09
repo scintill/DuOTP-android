@@ -20,7 +20,8 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="net.scintill.duotp">
+    package="net.scintill.duotp"
+    android:installLocation="auto">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
