@@ -118,7 +118,11 @@ class ActivationStringImporter {
             urlConn.setRequestMethod(this.httpMethod);
             if (!this.httpMethod.equals("GET")) {
                 urlConn.setDoOutput(true);
-                urlConn.setFixedLengthStreamingMode(0);
+                urlConn.setRequestProperty("Content-Type", "application/x-www-form-urlencoded");
+                urlConn.getOutputStream().write(
+                    "app_id=com.duosecurity.duomobile&app_version=3.37.1&app_build_number=337101"
+                    .getBytes("UTF-8")
+                );
                 urlConn.getOutputStream().close();
             }
             urlConn.setConnectTimeout(5);
