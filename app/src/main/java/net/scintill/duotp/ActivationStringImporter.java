@@ -74,7 +74,10 @@ class ActivationStringImporter {
         }
 
         try {
-            return new URL(this.urlScheme + "://" + hostname + "/push/v2/activation/" + activationToken);
+            return new URL(
+                this.urlScheme + "://" + hostname +
+                "/push/v2/activation/" + activationToken + "?customer_protocol=1"
+            );
         } catch (MalformedURLException e) {
             throw new IllegalArgumentException(e);
         }
